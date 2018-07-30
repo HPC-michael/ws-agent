@@ -5,8 +5,10 @@ This is an agent, or a quasi-daemon, that runs on a client in the background and
 
 Three subdirectories for use cases:
 
-Linux\n 
-Windows OS\n
-OSX\n
+Linux
+
+Windows OS
+
+OSX
 
 Follow directions in the subdirectory relevant to you.
